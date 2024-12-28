@@ -180,8 +180,8 @@ button{
 .content1{
   background-color: darksalmon;
   margin: 2%;
-  width: 35vw;
-  height: 53vh;
+  width: 170px;
+  height: 280px;
   border-radius: 20px;
   padding: 3%;
   justify-content: center;
@@ -190,6 +190,7 @@ button{
 .video1{
   border-radius: 20px;
   border: 10px solid antiquewhite;
+  height:50vh;
 }
 .content3-text{
   background-color: white;
